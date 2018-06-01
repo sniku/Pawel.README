@@ -13,10 +13,10 @@ The best part about this document is that you can hold me accountable for my com
 
 ## My job(s):
 
- - ensure you have enough information, environment and ability to do your work well
- - ensure you know __why__ we are working on X so you can contribute ideas
- - responsible for overall performance of the Tech department
- - responsible for the long-term technical health of our products 
+ - Ensure you have enough information, environment and ability to do your work well
+ - Ensure you know __why__ we are working on X so you can contribute ideas
+ - Responsible for overall performance of the Tech department
+ - Responsible for the long-term technical health of our products 
  - Reporting our progress, expectations and concerns to upper management
  - Providing realistic and achievable estimates, based on your feedback
  - Weekly 1-on-1s with all team members
@@ -28,7 +28,7 @@ The best part about this document is that you can hold me accountable for my com
 
 Above all, the primary job I, and everyone else on this team has is to deliver __business value__. 
 
-I may be your manager, but you will find that I use my role power very rarely. I practive and believe in [Servant leadership](https://www.greenleaf.org/what-is-servant-leadership/)
+I may be your manager, but you will find that I use my role power very rarely. I practice and believe in [Servant Leadership](https://www.greenleaf.org/what-is-servant-leadership/)
 
 ------------------------------------------------------------------------------------------------
 
@@ -60,10 +60,13 @@ I may be your manager, but you will find that I use my role power very rarely. I
 
 ## How can you help me?
 
- - Do amazing work and be proud of it. Tell me if you there's something preventing you from accomplishing this.
+ - Do amazing work and be proud of it. Tell me if you there's something preventing you from getting your job done.
+ - Know your priorities and deliverables. If you find yourself lost, focus on tasks that deliver most business value. 
  - Share your ideas. My job is to make sure we are working on the right thing, efficiently. Talk to me if you have an idea how to do something better. Tell me if something is not working for you. 
  - Help others when they are struggling. Success of a company is a team effort. Transfer your skills and knowledge to your colleagues, and they will do the same.
+ - If you find yourself working on a task that has a low business value, stop and talk to me. 
  - Tell me when I screw up. This is very important. I screw up and sometimes don’t notice. I need to know or I’ll likely do it again.
+ - Communicate with me as soon as you know that your work will be delivered late. I'll be thankful for this.
 
 
 ------------------------------------------------------------------------------------------------
@@ -136,6 +139,4 @@ I know quite much about mushrooms and love mushroom picking!
 ![Jurek](assets/Jurek.jpg?raw=true "Jurek")
 ![Brago](assets/brago.jpg?raw=true "Brago")
 ![Natalia](assets/nupek.jpg?raw=true "Natalia")
-![Me](assets/me.jpg?raw=true "Natalia")
-
-
+![Me](assets/me.jpg?raw=true "Pawel")
