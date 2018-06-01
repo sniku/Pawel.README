@@ -1,6 +1,6 @@
-# Pawel @ LoadImpact. README
+# Pawel @ LoadImpact README
 
-Hi. I'm Pawel, and this is my operating manual. 
+Hi. I'm Pawel, and this is my README, operating manual, play book. 
 
 
 ## Why? This is weird!
@@ -15,7 +15,7 @@ The best part about this document is that you can hold me accountable for my com
 
  - ensure you have enough information, environment and ability to do your work well
  - ensure you know __why__ we are working on X so you can contribute ideas
- - reponsible for overall performance of the Tech department
+ - responsible for overall performance of the Tech department
  - responsible for the long-term technical health of our products 
  - Reporting our progress, expectations and concerns to upper management
  - Providing realistic and achievable estimates, based on your feedback
@@ -28,7 +28,7 @@ The best part about this document is that you can hold me accountable for my com
 
 Above all, the primary job I, and everyone else on this team has is to deliver __business value__. 
 
-I may be your manager, but you will find that I use my role power very rarily. I practive and believe in [Servant leadership](https://www.greenleaf.org/what-is-servant-leadership/)
+I may be your manager, but you will find that I use my role power very rarely. I practive and believe in [Servant leadership](https://www.greenleaf.org/what-is-servant-leadership/)
 
 ------------------------------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ I may be your manager, but you will find that I use my role power very rarily. I
 
  - Do amazing work and be proud of it. Tell me if you there's something preventing you from accomplishing this.
  - Share your ideas. My job is to make sure we are working on the right thing, efficiently. Talk to me if you have an idea how to do something better. Tell me if something is not working for you. 
- - Help others when they are struggling. Success of a company is a team effort. Transfer your skills and knowledge to your collegues, and they will do the same.
+ - Help others when they are struggling. Success of a company is a team effort. Transfer your skills and knowledge to your colleagues, and they will do the same.
  - Tell me when I screw up. This is very important. I screw up and sometimes don’t notice. I need to know or I’ll likely do it again.
 
 
@@ -70,8 +70,8 @@ I may be your manager, but you will find that I use my role power very rarily. I
 
 ## Your growth
 	
- - Untimately, everyone is responsible for their own growth. You have to actively ask for more responsibilities to grow.
- - I'll do my best to proctively push you forward in the direction of your choosing.
+ - Ultimately, everyone is responsible for their own growth. You have to actively ask for more responsibilities to grow.
+ - I'll do my best to proactively push you forward in the direction of your choosing.
  - People grow when they get challenges. It can be uncomfortable. Talk to me if you are not challenged enough or too much.
  - Want more/different responsibilities? Talk to me.
 
@@ -93,22 +93,34 @@ I may be your manager, but you will find that I use my role power very rarily. I
  - I strive to keep high personal integrity at all times.
  - When I get stressed out, I can get impatient. Please call me out on it and I'll address it.
  - I can get too quiet at times. If you don't know what I'm thinking, ask me.
- - My Swedish is bad and I'm embarased to use it! Challange me.
+ - My Swedish is bad and I'm embarrassed to use it! Challenge me.
  - At times I can jump into programming and neglect my managerial duties. If you feel this is happening, please call me out on it.
 
 ------------------------------------------------------------------------------------------------
 
 ## One on ones
 
-//TODO
+If you are member of the technical team, we will have weekly, 30 minutes long, scheduled, One On One meetings. 
+
+In my experience, One On One meeting is a great way for us to to build and maintaining our relationship, and communicate openly with each other.
+
+It will be a private conversation - just you and I. 
+
+The format of the 30 minutes will always be the same. The first 15 minutes are for YOUR agenda - anything you want to tell me, about anything. Your work, your family, your pets, your hobby, your challenges, your career, our working together. The primary focus of this meeting is going to be YOU. 
+The remaining 15 minutes are for me, to share whatever I need to with you. We'll probably talk about projects you and I are working on, stuff I need from you, your concerns and things I've heard from up above. This is NOT a meeting where to give you a ton of stuff to take notes on. The last part of the meeting will be to talk about the future - your career, training, development, opportunities, etc. 
+
+Naturally during the week you will come up with ideas about things you want to talk about. Drop these in our private slack channel, we can pick them up from there.
+
+If we finish our meeting early, we will leave early.
+
 
 ------------------------------------------------------------------------------------------------
 
 ## Feedback
 
-Feedback is a scary word, with mostly negative conntations. This is not at all how I see it!
+Feedback is a scary word, with mostly negative connotations. This is not at all how I see it!
 
-I believe that surronding yourself with people who only tell you what you want to hear is no way to grow as a person. 
+I believe that surrounding yourself with people who only tell you what you want to hear is no way to grow as a person. 
 
  - I love feedback. Positive and negative.
  - The goal of feedback is to encourage effective future behaviour
@@ -126,16 +138,20 @@ I live in Täby, 21km from the office, with my geeky spouse, Natalia.
 We have 2 pets, Leopard Tortoise and a Bearded Dragon. 
 
 I do some sports:
- - I bike. On average I do 10.000km+ anually. You will probably see me bike to/from the office. 
+ - I bike. On average I do 10.000 km+ annually. You will probably see me bike to/from the office. 
  - I do some weightlifting, mostly to relax. Wanna hit the gym together? Ping me.
- - I watch Sumo and think this sport is way underapreciated! (I only watch!) 
+ - I watch Sumo and think this sport is way underappreciated! (I only watch!) 
  - Occasionally I'll sign up for a challenge race. My recent ones were: Lidingöloppet, Vätternrundan and Tough Viking. 
 
 I do some other things. Together with Natalia, I build Open Source, network routers and sell them on [TekLager.se](https://TekLager.se/en/?pk_cmp=github). 
+
 I'm a supporter of open source/free software movement and contribute to open source when I can.
+
 I know quite much about mushrooms and love mushroom picking!
 
 
 ![Jurek](assets/Jurek.jpg?raw=true "Jurek")
 ![Brago](assets/brago.jpg?raw=true "Brago")
 ![Natalia](assets/nupek.jpg?raw=true "Natalia")
+
+
