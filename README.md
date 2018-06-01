@@ -136,5 +136,6 @@ I know quite much about mushrooms and love mushroom picking!
 ![Jurek](assets/Jurek.jpg?raw=true "Jurek")
 ![Brago](assets/brago.jpg?raw=true "Brago")
 ![Natalia](assets/nupek.jpg?raw=true "Natalia")
+![Me](assets/me.jpg?raw=true "Natalia")
 
 
