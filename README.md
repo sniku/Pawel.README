@@ -113,23 +113,6 @@ Naturally during the week you will come up with ideas about things you want to t
 
 If we finish our meeting early, we will leave early.
 
-
-------------------------------------------------------------------------------------------------
-
-## Feedback
-
-Feedback is a scary word, with mostly negative connotations. This is not at all how I see it!
-
-I believe that surrounding yourself with people who only tell you what you want to hear is no way to grow as a person. 
-
- - I love feedback. Positive and negative.
- - The goal of feedback is to encourage effective future behaviour
- - Feedback is essential to your success and mine
- - I give feedback often and early. Mostly positive!
- - Feedback is something I have historically not been great at. I'm working on it constantly because I believe it to be very effective.
-
-//TODO: describe feedback model.
-
 ------------------------------------------------------------------------------------------------
 
 ## Who am I outside of work?
