@@ -107,9 +107,9 @@ In my experience, One On One meeting is a great way for us to to build and maint
 It will be a private conversation - just you and I. 
 
 The format of the 30 minutes will always be the same. The first 15 minutes are for YOUR agenda - anything you want to tell me, about anything. Your work, your family, your pets, your hobby, your challenges, your career, our working together. The primary focus of this meeting is going to be YOU. 
-The remaining 15 minutes are for me, to share whatever I need to with you. We'll probably talk about projects you and I are working on, stuff I need from you, your concerns and things I've heard from up above. This is NOT a meeting where to give you a ton of stuff to take notes on. The last part of the meeting will be to talk about the future - your career, training, development, opportunities, etc. 
+The remaining 15 minutes are for me, to share whatever I need to with you. We'll probably talk about projects you and I are working on, stuff I need from you, your concerns and things I've heard from up above. This is NOT a meeting where I give you a ton of stuff to take notes on. The last part of the meeting will be to talk about the future - your career, training, development, opportunities, etc. 
 
-Naturally during the week you will come up with ideas about things you want to talk about. Drop these in our private slack channel, we can pick them up from there.
+Naturally, during the week you will come up with ideas about things you want to talk about. Drop these in our private slack channel, we can pick them up from there.
 
 If we finish our meeting early, we will leave early.
 
