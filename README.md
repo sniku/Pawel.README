@@ -1,9 +1,10 @@
-# Pawel - personal README
+# Pawel @ k6 README
 
 Hi. I'm Pawel, and this is my README, operating manual, playbook. 
 
+
 ## Why? This is weird!
-This may be weird, but it's the quickest way to let you know a few things about me and how I work.
+This may be weird, but it's the quickest way to let you know few things about me and how I work.
 The best part about this document is that you can hold me accountable for my commitments! 
 
 *This is an evolving document. It changes as I learn more about how to do my job.*
@@ -17,7 +18,7 @@ The best part about this document is that you can hold me accountable for my com
  - Responsible for the overall performance of the Tech department
  - Responsible for the long-term technical health of our products 
  - Reporting our progress, expectations, and concerns to upper management
- - Providing realistic and achievable estimates, based on your feedback
+ - Providing realistic and achievable estimates based on your feedback
  - Weekly 1-on-1s with all team members
  - Deliver performance-improving feedback to all team members
  - Help you to manage your growth and your career
@@ -25,7 +26,7 @@ The best part about this document is that you can hold me accountable for my com
  - I program too! Ask me for help when you need it!
 
 
-Above all, the primary job I, and everyone else on this team has is to deliver __business value__. 
+Above all, the primary job I and everyone else on this team has is to deliver __business value__. 
 
 I may be your manager, but you will find that I use my role power very rarely. I practice and believe in [Servant Leadership](https://www.greenleaf.org/what-is-servant-leadership/)
 
@@ -34,8 +35,8 @@ I may be your manager, but you will find that I use my role power very rarely. I
 ## My availability:
 
 - Very few things are more important to me than talking to you when you want to talk. Send me a message and let's talk.
-- Need clarification on something? Heard a gossip? Come by my desk, send me an email or slack me. We don't need to wait for our scheduled 1:1. Let's talk.
-- I appreciate a few things as much as getting your feedback. Tell me what I'm doing wrong and we all can benefit from it.
+- Need clarification on something? Heard a gossip? Come by my desk, send me an email, or slack me. We don't need to wait for our scheduled 1:1. Let's talk.
+- I appreciate few things as much as getting your feedback. Tell me what I'm doing wrong, and we all can benefit from it.
 
 ------------------------------------------------------------------------------------------------
 
@@ -51,7 +52,7 @@ I may be your manager, but you will find that I use my role power very rarely. I
 ## How can I help you?
  - Provide context. When you know how your work contributes to business success, you can find easier ways to get us there.
  - I can shield you from too much stress and unrealistic expectations.
- - I'll meet with you every week for 30 minutes to talk about work, life, and growth.
+ - I'll meet with you every week for 30 minutes to talk about work, life and growth.
  - Other. Everyone is different. Please let me know how else I can help.
 
 
@@ -61,10 +62,10 @@ I may be your manager, but you will find that I use my role power very rarely. I
 
  - Do amazing work and be proud of it. Tell me if there's something preventing you from getting your job done.
  - Know your priorities and deliverables. If you find yourself lost, focus on tasks that deliver most business value. 
- - Share your ideas. My job is to make sure we are working on the right thing, efficiently. Talk to me if you have an idea about how to do something better. Tell me if something is not working for you. 
- - Help others when they are struggling. The success of a company is a team effort. Transfer your skills and knowledge to your colleagues, and they will do the same.
+ - Share your ideas. My job is to make sure we are working on the right thing, efficiently. Talk to me if you have an idea how to do something better. Tell me if something is not working for you. 
+ - Help others when they are struggling. Success of a company is a team effort. Transfer your skills and knowledge to your colleagues, and they will do the same. Your individual success is less important than the success of the team.
  - If you find yourself working on a task that has a low business value, stop and talk to me. 
- - Tell me when I screw up. This is very important. I screw up and sometimes don’t notice. I need to know or I’ll likely do it again.
+ - Tell me when I screw up. This is very important. I screw up and sometimes don't notice. I need to know, or I'll likely do it again.
  - Communicate with me as soon as you know that your work will be delivered late. I'll be thankful for this.
 
 
@@ -82,7 +83,7 @@ I may be your manager, but you will find that I use my role power very rarely. I
 ## Transparency
 
  - I'll try to be as open as possible about what's going on with our team, department, and the company. 
- - Sometimes the company may require me to not tell you about something before a certain date. This generally is not a norm.
+ - Sometimes, the company may require me not to tell you about something before a certain date. This generally is not the norm.
  - My calendar is public to you. Very few events will be private. If you need to meet with me, feel free to book a meeting.
 
 
@@ -93,10 +94,10 @@ I may be your manager, but you will find that I use my role power very rarely. I
  - I'm more analytical than creative. I enjoy art and music but am unable to create any.
  - I'm forward in giving feedback to my colleagues. Positive and negative, even when it's awkward. 
  - I strive to keep high personal integrity at all times.
- - When I get stressed out, I can get impatient. Please call me out on it and I'll address it.
+ - When I get stressed out, I can get impatient. Please call me out on it, and I'll address it.
  - I can get too quiet at times. If you don't know what I'm thinking, ask me.
- - My Swedish is bad and I'm embarrassed to use it! Challenge me.
- - At times I can jump into programming and neglect my managerial duties. If you feel this is happening, please call me out on it.
+ - My Swedish is bad, and I'm embarrassed to use it! Challenge me.
+ - At times, I can jump into programming and neglect my managerial duties. If you feel this is happening, please call me out on it.
 
 ------------------------------------------------------------------------------------------------
 
@@ -104,14 +105,15 @@ I may be your manager, but you will find that I use my role power very rarely. I
 
 If you are a member of the technical team, we will have weekly, 30 minutes long, scheduled, One On One meetings. 
 
-In my experience, One On One meeting is a great way for us to build and maintain our relationship, and communicate openly with each other.
+In my experience, One On One meeting is a great way for us to build and maintain our relationship and communicate openly with each other.
 
 It will be a private conversation - just you and me. 
 
-The format of the 30 minutes will always be the same. The first 15 minutes are for YOUR agenda - anything you want to tell me, about anything. Your work, your family, your pets, your hobby, your challenges, your career, our working together. The primary focus of this meeting is going to be YOU. 
-The remaining 15 minutes are for me, to share whatever I need to with you. We'll probably talk about projects you and I are working on, stuff I need from you, your concerns, and things I've heard from up above. This is NOT a meeting where I give you a ton of stuff to take notes on. The last part of the meeting will be to talk about the future - your career, training, development, opportunities, etc. 
+The format of the 30 minutes will always be the same. The first 15 minutes are for YOUR agenda - anything you want to tell me about anything. Your work, your family, your pets, your hobby, your challenges, your career, our working together. The primary focus of this meeting is going to be YOU. 
+The remaining 15 minutes are for me to share whatever I need to with you. We'll probably talk about projects you and I are working on, stuff I need from you, your concerns, and things I've heard from up above. This is NOT a meeting where I give you a ton of stuff to take notes on. 
+From time to time, at the end of the meeting, we will talk about the future - your career, training, development, opportunities, etc. 
 
-Naturally, during the week you will come up with ideas about things you want to talk about. Drop these in our private slack channel, we can pick them up from there.
+Naturally, during the week, you will come up with ideas about things you want to talk about. Drop these in our private slack channel, and we can pick them up from there.
 
 If we finish our meeting early, we will leave early.
 
@@ -120,22 +122,17 @@ If we finish our meeting early, we will leave early.
 ## Who am I outside of work?
 
 I live in Täby, 21km from the office, with my geeky spouse, Natalia. 
-We have 2 pets, Leopard Tortoise and a Bearded Dragon. 
+We have two pets, Leopard Tortoise and a Bearded Dragon. 
 
 I do some sports:
- - I bike. On average I do 10.000 km+ annually. You will probably see me bike to/from the office. 
- - I do some weightlifting, mostly to relax. Wanna hit the gym together? Ping me.
+ - I bike. On average, I do 10.000 km+ annually. You will probably see me bike to/from the office. 
  - I watch Sumo and think this sport is way underappreciated! (I only watch!) 
- - Occasionally I'll sign up for a challenging race. My recent ones were: Lidingöloppet, Vätternrundan, and Tough Viking. 
-
-I do some other things. Together with Natalia, I build Open Source, network routers, and sell them on [TekLager.se](https://TekLager.se/en/?pk_cmp=github). 
-
-I'm a supporter of open-source/free software movement and contribute to open source when I can.
+ - Occasionally, I'll sign up for a challenge race. My recent ones were: Lidingöloppet, Vätternrundan and Tough Viking. 
 
 I know quite much about mushrooms and love mushroom picking!
 
 
-![Jurek](assets/Jurek.jpg?raw=true "Jurek")
-![Brago](assets/brago.jpg?raw=true "Brago")
-![Natalia](assets/nupek.jpg?raw=true "Natalia")
-![Me](assets/me.jpg?raw=true "Pawel")
+![Jurek](images/pawel/Jurek.jpg?raw=true "Jurek")
+![Brago](images/pawel/brago.jpg?raw=true "Brago")
+![Natalia](images/pawel/nupek.jpg?raw=true "Natalia")
+![Me](images/pawel/me.jpg?raw=true "Pawel")
