@@ -132,7 +132,7 @@ I do some sports:
 I know quite much about mushrooms and love mushroom picking!
 
 
-![Jurek](images/pawel/Jurek.jpg?raw=true "Jurek")
-![Brago](images/pawel/brago.jpg?raw=true "Brago")
-![Natalia](images/pawel/nupek.jpg?raw=true "Natalia")
-![Me](images/pawel/me.jpg?raw=true "Pawel")
+![Jurek](assets/Jurek.jpg?raw=true "Jurek")
+![Brago](assets/brago.jpg?raw=true "Brago")
+![Natalia](assets/nupek.jpg?raw=true "Natalia")
+![Me](assets/me.jpg?raw=true "Pawel")
